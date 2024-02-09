@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on purple team
 - 📫 How to reach me @x sam mumo
 - 😄 Pronouns: ...
-- ⚡ Fun fact: pianist
+- ⚡ hobbie: Playing piano and guitar
 
 <!---
 ssammueel/ssammueel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
