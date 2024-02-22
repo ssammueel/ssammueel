@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuel
 - 👀 I’m interested in full stack dev and penetration testing/ethical hacking
 - 🌱 I’m currently learning node js and react js
-- 💞️ I’m looking to collaborate on purple team
+- 💞️ I’m looking to collaborate on purple team and development
 - 📫 How to reach me @x sam mumo
 - 😄 Pronouns: ...
 - ⚡ hobbie: Playing piano and guitar
