@@ -1,9 +1,22 @@
 ## 👋 Hi, I’m @samuel
-- 👀 I’m interested in full stack dev and penetration testing/ethical hacking
+
+### INTREST
+- 👀 I’m interested in:
+  * penetration testing
+  * ethical hacking
+  * Digital Forensics
+  * Software Development
+  * playing CTF's
+    
+### learning
 - 🌱 I’m currently learning node js and react js
-- 💞️ I’m looking to collaborate on Tech advance
-- 📫 How to reach me @x sam mumo
-- ⚡ hobbie: Playing piano and guitar
+
+### let's connect
+- reach me @x sam mumo
+
+### hobbie
+  * Playing piano
+  * guitar
 
 <!---
 ssammueel/ssammueel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
