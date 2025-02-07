@@ -9,7 +9,7 @@
   * playing CTF's
     
 ### learning
-- 🌱 I’m currently learning node js and react js
+- 🌱 I’m currently learning pentesting, hacking vunerable operating systems
 
 ### let's connect
 - reach me @x sam mumo
